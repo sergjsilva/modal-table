@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table thead th {
+  background-color: black; /* Header background color */
+  color: white; /* Header text color */
+}
+
+th:first-child,
+td:first-child {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0px;
+}
