@@ -11,10 +11,15 @@ This project demonstrates how to create a scrollable table inside a Bootstrap mo
 ## Technologies Used
 
 - **HTML:** Structure of the table.
-- **CSS:** Custom styles for sticky header and fixed column.
+- **CSS:** Custom style for fixed column.
 - **Bootstrap:** Framework for styling and modals.
-- **Bootstrap Table Plugin:** Adds additional features like sticky headers and fixed columns.
+- **Bootstrap Table Plugin:** Adds additional feature to sticky header.
 - **jQuery:** Dependency for Bootstrap Table plugin.
+
+## Demo
+
+You can view a live demo of the project at [live demo link]([(https://modal-table.pages.dev/)].
+
 
 ## Installation
 
