@@ -18,7 +18,7 @@ This project demonstrates how to create a scrollable table inside a Bootstrap mo
 
 ## Demo
 
-You can view a live demo of the project at [live demo link]([(https://modal-table.pages.dev/)].
+You can view a live demo of the project at [https://modal-table.pages.dev](https://modal-table.pages.dev/).
 
 
 ## Installation
